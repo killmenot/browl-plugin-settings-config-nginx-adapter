@@ -1,0 +1,29 @@
+{
+  "name": "browl-plugin-settings-config-nginx-adapter",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Alexey Kucherenko",
+  "main": "index.js",
+  "license": "MIT",
+  "homepage": "https://github.com/killmenot/browl-plugin-settings-config-nginx-adapter#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killmenot/browl-plugin-settings-config-nginx-adapter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/killmenot/browl-plugin-settings-config-nginx-adapter/issues"
+  },
+  "scripts": {
+    "lint": "eslint lib index.js"
+  },
+  "pre-commit": [
+    "lint"
+  ],
+  "dependencies": {
+    "debug": "^4.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "pre-commit": "^1.2.2"
+  }
+}
