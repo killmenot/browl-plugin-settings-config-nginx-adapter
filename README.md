@@ -1,6 +1,6 @@
 # browl-plugin-settings-config-nginx-adapter
 
-[![Build Status](https://travis-ci.org/killmenot/browl-plugin-settings-config-nginx-adapter.svg?branch=master)](https://travis-ci.org/killmenot/browl-plugin-settings-config-nginx-adapter) [![Coverage Status](https://coveralls.io/repos/github/killmenot/browl-plugin-yaml/badge.svg?branch=master)](https://coveralls.io/github/killmenot/browl-plugin-settings-config-nginx-adapter?branch=master) [![Dependency Status](https://david-dm.org/killmenot/browl-plugin-settings-config-nginx-adapter.svg)](hhttps://david-dm.org/killmenot/browl-plugin-settings-config-nginx-adapter) [![npm version](https://img.shields.io/npm/v/browl-plugin-settings-config-nginx-adapter.svg)](https://www.npmjs.com/package/browl-plugin-settings-config-nginx-adapter)
+[![Build Status](https://travis-ci.org/killmenot/browl-plugin-settings-config-nginx-adapter.svg?branch=master)](https://travis-ci.org/killmenot/browl-plugin-settings-config-nginx-adapter) [![Coverage Status](https://coveralls.io/repos/github/killmenot/browl-plugin-settings-config-nginx-adapter/badge.svg?branch=master)](https://coveralls.io/github/killmenot/browl-plugin-settings-config-nginx-adapter?branch=master) [![Dependency Status](https://david-dm.org/killmenot/browl-plugin-settings-config-nginx-adapter.svg)](https://david-dm.org/killmenot/browl-plugin-settings-config-nginx-adapter) [![npm version](https://img.shields.io/npm/v/browl-plugin-settings-config-nginx-adapter.svg)](https://www.npmjs.com/package/browl-plugin-settings-config-nginx-adapter)
 
 Browl plugin that is a bridge between [browl-plugin-settings-config](https://github.com/killmenot/browl-plugin-settings-config) and [browl-plugin-nginx](https://github.com/killmenot/browl-plugin-nginx) browl plugins.
 
@@ -13,6 +13,8 @@ Once plugin is initalized the stragegy instance got `getTemplateData` method tha
 ## License
 
     The MIT License (MIT)
+
+    Copyright (c) 2018 Alexey Kucherenko
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
